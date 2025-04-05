@@ -25,6 +25,9 @@ var/
 *.egg
 MANIFEST
 
+# Large model files (optional)
+results/
+
 # IDEs and editors
 .vscode/
 .idea/
